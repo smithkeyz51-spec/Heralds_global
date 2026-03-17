@@ -317,6 +317,7 @@ The Heralds is a premium brand growth agency focused on turning businesses into 
 <footer>
 <p>The Heralds</p>
 <p>We build brands into dominant digital forces.</p>
+<p>© 2026 The Heralds. All rights reserved.</p>
 </footer>
 
 </body>
