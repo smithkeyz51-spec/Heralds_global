@@ -310,7 +310,7 @@ The Heralds is a premium brand growth agency focused on turning businesses into 
 <div class="social">
 <a href="https://instagram.com/heralds_global">Instagram</a>
 <a href="https://x.com/pkenecrypt">X</a>
-<a href="mailto:edwardwilfred17@gmail.com">edwardwilfred17@gmail.com</a>
+<a href="mailto:edwardwilfred17@gmail.com">email</a>
 </div>
 
 </section>
