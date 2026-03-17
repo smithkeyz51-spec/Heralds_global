@@ -201,7 +201,7 @@ margin-top:50px;
 <!-- HEADER -->
 <header>
 <div class="logo">
-<img src="logo.png" alt="logo">
+<img src="images/logo.png">
 <h2>The Heralds</h2>
 </div>
 
