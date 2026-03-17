@@ -257,11 +257,11 @@ The Heralds is a premium brand growth agency focused on turning businesses into 
 <h3>SNIPER</h3>
 <p>Precision. Speed. Results.</p>
 <ul>
-<li>12 HD Brand Videos</li>
-<li>High-converting edits</li>
-<li>Color grading</li>
-<li>Brand audit</li>
-<li>Content calendar</li>
+<li>12 high-impact HD Brand Videos</li>
+<li>Scroll-stopping edits with persuasive High-converting captions</li>
+<li>Professional cinematic color grading</li>
+<li>Strategic brand audit + growth blueprint</li>
+<li>Conversion-driven content calender with authentic powerful CTAs</li>
 </ul>
 <div class="price">₦199,900</div>
 </div>
@@ -272,11 +272,11 @@ The Heralds is a premium brand growth agency focused on turning businesses into 
 <h3>EAGLE</h3>
 <p>Scale Faster. Sell Smarter.</p>
 <ul>
-<li>16 Premium Videos</li>
-<li>Sales-driven edits</li>
-<li>Elite color grading</li>
+<li>16 Premium HD brand Videos</li>
+<li>Hard-hitting edits with compelling, sales-driven captions</li>
+<li>Elite cinematic color grading</li>
 <li>Brand strategy</li>
-<li>Ads plan</li>
+<li>Customizable Meta Ads plan engineered to sky rocket sales</li>
 </ul>
 <div class="price">₦299,900</div>
 </div>
@@ -287,11 +287,12 @@ The Heralds is a premium brand growth agency focused on turning businesses into 
 <h3>MONA LISA</h3>
 <p>Total Authority.</p>
 <ul>
-<li>20 Premium Videos</li>
-<li>Luxury edits</li>
-<li>Full strategy</li>
-<li>Ads ecosystem</li>
+<li>20 cinematic, ultra-Premium brand Videos</li>
+<li>High-converting, luxury edits with elite level captions</li>
+<li>Elite color grading + high end production quality</li>
+<li>ROI-focused, full form Meta Ads ecosystem</li>
 <li>1-on-1 consulting</li>
+<li>24/7 Social media management</li>
 </ul>
 <div class="price">₦499,900</div>
 </div>
